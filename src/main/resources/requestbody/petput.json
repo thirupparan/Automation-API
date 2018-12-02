@@ -1,0 +1,18 @@
+{
+  "id": 83688067,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "catty",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "thirupparan"
+    }
+  ],
+  "status": "available"
+}
